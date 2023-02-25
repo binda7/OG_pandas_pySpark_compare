@@ -1,5 +1,7 @@
 Wybrać bazę danych, aby następnie wykonać analizę z wykorzystaniem Pandasa, Matplotlob oraz numpy
 
+W związku z tym że jest to porównanie to nie uwzględniono wszędzie unikalnych wartości i konkretne wartości w analizie mogą być błędne ze względu na kilkukrotnie wpisane osoby
+
 
 DATA:
 https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020?select=regions.csv
