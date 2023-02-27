@@ -23,4 +23,4 @@ For both libraries, exactly the same set of queries was performed. First, a csv 
 Kaggle: https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020?select=regions.csv
 
 
-### SOON WINTER OLIMPIC GAMES ANALITYCS WITH POLARS AND SEABORN
+### SOON WINTER OLIMPIC GAMES ANALITYCS WITH POLARS
